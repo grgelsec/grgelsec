@@ -1,4 +1,4 @@
-## Hi there 👋
+## yo 👋
 
 howdy! my name is George Lisec, i am currently a junior at indiana universtiy majoring in computer science and minoring in math and data science. i started learning front-end in january 2024 and since then i have had so much fun learning and coding has quickly become my favorite hobby.
 
