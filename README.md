@@ -2,8 +2,8 @@
 
 my name is George Lisec, i am currently a junior at indiana universtiy majoring in computer science and minoring in math and data science. i started learning front-end in january 2024 and since then i have had so much fun learning and coding has quickly become my favorite hobby. my first year and a half studying cs at university were rough, i didnt love coding or apply myself and i thought oppoutunities would just come my way. it wasn't until i started learning and building what i found interesting that coding became a passion. whether im in college or the field i am always going to be a student and so this is a log of my learning and improvement.
 
-- 🌱 Right now, I am neetcoding and applying to internships for 2025.
-- 🔭 I just passed my AWS Cloud Practitioner Exam and finished a couple projects.
+- 🌱 Internship secured 🤠, working on getting better at DSA beacuse I suck at logic problems.
+- 🔭 Gathering parts to build my own budget gpu cluster. I have a sick project in mind.
 - 📫 X: @glisecisgone
 
 
