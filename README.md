@@ -1,6 +1,6 @@
 ## howdy!
 
-currently a cs student specializing in swe and minoring in ds. i have a really fun time working on full-stack dev stuff and so this is my log of learning and progress. i have sooo much to learn!
+currently a cs student specializing in swe & ai and minoring in ds. currently focused on building ai integrated apps from scratch and learning ai/ml on the sde.
 
 
 <!--
