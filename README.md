@@ -1,6 +1,6 @@
 ## howdy!
 
-currently a cs student specializing in swe with a little mix of systems/ai and minoring in ds. currently focused on building ai integrated apps from scratch using Next.js/Typescript.
+currently a cs student specializing in swe with a little mix of systems/ai and minoring in data science. currently focused on building ai integrated apps from scratch using Next.js/Typescript.
 
 
 <!--
