@@ -1,6 +1,6 @@
 ## howdy!
 
-currently a cs student specializing in ai with a little mix of systems and minoring in data science. currently focused on building ai integrated apps from scratch using Next.js/Typescript.
+currently a cs student specializing in ai with a little mix of systems and minoring in data science. currently focused on building ai integrated apps from scratch using Next.js/Typescript. In the long run I would love to be working in backend AI Systems specifically in Agentic development and automation. Going into the next school year I'll be combining frontend and backend to make some cool full-stack AI projects.
 
 
 <!--
