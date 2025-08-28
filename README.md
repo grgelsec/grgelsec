@@ -1,6 +1,10 @@
 ## howdy!
 
-currently a cs student specializing in ai with a little mix of systems and minoring in data science. currently focused on building ai integrated apps from scratch using Next.js/Typescript. In the long run I would love to be working in backend AI Systems specifically in Agentic development and automation. Going into the next school year I'll be combining frontend and backend to make some cool full-stack AI projects.
+## AUG 2024
+Currently a cs student specializing in ai with a little mix of systems and minoring in data science. currently focused on building ai integrated apps from scratch using Next.js/Typescript. In the long run I would love to be working in backend AI Systems specifically in Agentic development and automation. Going into the next school year I'll be combining frontend and backend to make some cool full-stack AI projects.
+
+## AUG 2025
+After my last internship I figured out I am very interesting in backend/Agentic AI/MLE so my next projects will be exploring the capabilites of LangChain and other agent frameworks while also trying to gain understanding of core ML principles. Still specializing in ai and finishing out my degree with some systems classes, both in order to have foundation computer science knowledge which will always be useful with every hype area (agents, etc..). Currently going into senior year and I need a job so right now all im doing is leetcode but hoping to do more fun coding things after I secure a full time offer.
 
 
 <!--
