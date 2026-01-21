@@ -1,7 +1,6 @@
 ## howdy!
 
-## AUG 2025
-After my last internship I figured out I am very interesting in backend/Agentic AI/MLE so my next projects will be exploring the capabilites of LangChain and other agent frameworks while also trying to gain understanding of core ML principles. Still specializing in ai and finishing out my degree with some systems classes, both in order to have foundation computer science knowledge which will always be useful with every hype area (agents, etc..). Currently going into senior year and I need a job so right now all im doing is leetcode but hoping to do more fun coding things after I secure a full time offer. Eventually going to start building some agent powered cli tooling.
+Finishing up senior year, starting job in may. Working on fundementals and first principles with a focus in backend.
 
 
 <!--
