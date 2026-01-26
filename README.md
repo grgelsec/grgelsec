@@ -1,6 +1,6 @@
 ## howdy!
 
-Finishing up senior year, starting job in may. Working on fundementals and first principles with a focus in backend.
+coding is changing, first principles arent. graduating college soon, this is my learning.
 
 
 <!--
